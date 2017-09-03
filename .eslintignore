@@ -1,0 +1,9 @@
+# .eslintignore documentation: http://eslint.org/docs/user-guide/configuring#ignoring-files-and-directories
+dist
+coverage
+test-coverage
+public/assets/js/bundle.js
+public/assets/js/testBundle.js
+
+tmp
+*settings.js
