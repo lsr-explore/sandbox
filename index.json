@@ -1,48 +1,48 @@
 [
 {
-	"uri": "http://example.org/",
+	"uri": "https://lsr-explore.github.io/sandbox/",
 	"title": "Overview",
 	"tags": [],
 	"description": "",
 	"content": " Welcome to the sandbox! "
 },
 {
-	"uri": "http://example.org/setup/eslint/",
+	"uri": "https://lsr-explore.github.io/sandbox/setup/eslint/",
 	"title": "Eslint",
 	"tags": [],
 	"description": "",
 	"content": " Configuring the linter "
 },
 {
-	"uri": "http://example.org/setup/",
+	"uri": "https://lsr-explore.github.io/sandbox/setup/",
 	"title": "Tools",
 	"tags": [],
 	"description": "",
 	"content": " Foundations of the sandbox "
 },
 {
-	"uri": "http://example.org/categories/",
+	"uri": "https://lsr-explore.github.io/sandbox/categories/",
 	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "http://example.org/",
+	"uri": "https://lsr-explore.github.io/sandbox/",
 	"title": "My New Hugo Site",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "http://example.org/setup/",
+	"uri": "https://lsr-explore.github.io/sandbox/setup/",
 	"title": "Setups",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "http://example.org/tags/",
+	"uri": "https://lsr-explore.github.io/sandbox/tags/",
 	"title": "Tags",
 	"tags": [],
 	"description": "",
