@@ -68,3 +68,6 @@ api/**/*.nedb
 *.report.html
 
 dist
+
+# Hugo ouptut
+public
